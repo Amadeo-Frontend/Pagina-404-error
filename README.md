@@ -14,7 +14,7 @@
   </br>
 
 #
-<p align="center">LIVE:https://pagina-404-error-iwwu.vercel.app/</p>
+<p align="center">LIVE: https://pagina-404-error-iwwu.vercel.app/</p>
 
 
 ![Image Generation App](https://github.com/Amadeo-Frontend/images_sites/blob/main/img/erro.png)
